@@ -13,3 +13,4 @@ try {
 } catch (Exception $e) {
     echo "❌ Erreur MongoDB : " . $e->getMessage();
 }
+//phpinfo();

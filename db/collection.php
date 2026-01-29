@@ -1,11 +1,17 @@
 <?php
+require __DIR__ . '/../vendor/autoload.php';
+
+use MongoDB\Client;
+
+$client = new Client("mongodb://localhost:30001");
 // connect to mongodb
-$m = new MongoClient();
 echo "Connection to database successfully";
 
 // select a database
-$db = $m->mydb;
-echo "Database mydb selected";
-$collection = $db->createCollection("mycol");
+$db = $client->test;
+echo "Database selected";
+
+$collection = $db->createCollection("adherent");
+
 echo "Collection created succsessfully";
 ?>
