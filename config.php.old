@@ -1,9 +1,0 @@
-<?php
-
-$host = "localhost";
-$port = "5432";
-$dbname = "Asvel";
-$user = "postgres";
-$password = "Enzo.2508";
-
-?>
