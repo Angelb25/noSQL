@@ -38,7 +38,7 @@ function insert_sortie($pdo, $nom_club) {
     foreach ($resultats as $ligne) {
 
         echo json_encode($ligne);
-    } 
+    }
 }
 
 require __DIR__ . '\vendor\autoload.php';
