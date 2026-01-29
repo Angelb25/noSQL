@@ -2,7 +2,7 @@
 
 use MongoDB\Client;
 
-include "config.php";
+include "config.php.old";
 include "traitement.php";
 
 try {
