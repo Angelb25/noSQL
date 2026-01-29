@@ -1,0 +1,72 @@
+[
+  {
+    "idsortie": 2,
+    "nom": "2020R1",
+    "lieu": "Monts du Lyonnais",
+    "datedebut": "2020-05-21",
+    "club": "test"
+  },
+  {
+    "idsortie": 28,
+    "nom": "2020 R6",
+    "lieu": "Mont Aiguille (date à reconfirmer)",
+    "datedebut": "2020-06-21",
+    "club": "test"
+  },
+  {
+    "idsortie": 51,
+    "nom": "2020 R36",
+    "lieu": "Pilat",
+    "datedebut": "2020-06-14",
+    "club": "test"
+  },
+  {
+    "idsortie": 33,
+    "nom": "2020 R13",
+    "lieu": "Le Grand Galbert",
+    "datedebut": "2020-07-26",
+    "club": "test"
+  },
+  {
+    "idsortie": 32,
+    "nom": "2020 R12",
+    "lieu": "La Pyramide Taillefer (à confirmer)",
+    "datedebut": "2020-07-19",
+    "club": "test"
+  },
+  {
+    "idsortie": 22,
+    "nom": "2020 A9",
+    "lieu": "Rocher des Patres (Belledonne)",
+    "datedebut": "2020-10-17",
+    "club": "test"
+  },
+  {
+    "idsortie": 92,
+    "nom": "SR16 2021",
+    "lieu": "Crète de Brouffier",
+    "datedebut": "2021-02-06",
+    "club": "test"
+  },
+  {
+    "idsortie": 39,
+    "nom": "2020 R17",
+    "lieu": "Traversée des Volcans d'Auvergne",
+    "datedebut": "2020-08-01",
+    "club": "test"
+  },
+  {
+    "idsortie": 455,
+    "nom": "ZZZ-2023",
+    "lieu": null,
+    "datedebut": "2022-03-16",
+    "club": "test"
+  },
+  {
+    "idsortie": 6,
+    "nom": "2020 R14",
+    "lieu": "Chartreuse Lance Sud de Malissard",
+    "datedebut": "2020-08-01",
+    "club": "test"
+  }
+]
