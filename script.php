@@ -3,6 +3,7 @@
 use MongoDB\Client;
 
 include "config.php";
+include "traitement.php";
 
 try {
     $pdo = new PDO(
@@ -40,7 +41,7 @@ function insert_sortie($pdo, $nom_club) {
     }
 }
 
-require __DIR__ . '\noSQL\vendor\autoload.php';
+require __DIR__ . '\vendor\autoload.php';
 
 
 
